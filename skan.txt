@@ -1,0 +1,8 @@
+Integer clock;
+String  s="";
+
+Scanner sc = new Scanner(System.in); //Скан текстовый
+s=sc.nextLine();
+        
+Scanner sc1 = new Scanner(System.in);//Скан числовой
+clock=sc.nextInt();
